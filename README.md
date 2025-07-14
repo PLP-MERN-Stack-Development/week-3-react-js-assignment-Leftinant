@@ -1,71 +1,32 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19935159&assignment_repo_type=AssignmentRepo)
-# React.js and Tailwind CSS Assignment
+# 📋 Task Manager App with API Integration
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A fully responsive React application built with **Vite**, **Tailwind CSS**, and **React Router**. It demonstrates clean component architecture, state management using hooks and context, a theme switcher, and real API data fetching from [Open Library](https://openlibrary.org).
 
-## Assignment Overview
+## 🚀 Features
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+- ✨ Task Manager: Add, complete, delete, and filter tasks
+- 🧩 Reusable Components: Button, Card, Navbar, Footer, Layout
+- 🌐 Public API Integration: Book data from Open Library API
+- 🖼 Responsive UI with Tailwind CSS and utility-first design
+- ⚛️ Built using Vite + React + TailwindCSS v4.1
 
-## Getting Started
+---
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+## 🧰 Tech Stack
 
-## Files Included
+- **React** (Vite)
+- **Tailwind CSS v4.1**
+- **React Router**
+- **Open Library API**
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+---
 
-## Requirements
+## 🔧 Setup Instructions
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+### 1. Clone the repository
 
-## Project Structure
+```bash
+git clone https://github.com/your-username/task-manager-app.git
+cd task-manager-app
 
 ```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
-```
-
-## Submission
-
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
-
-## Resources
-
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
