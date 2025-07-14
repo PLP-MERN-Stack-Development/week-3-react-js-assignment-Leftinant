@@ -26,7 +26,7 @@ A fully responsive React application built with **Vite**, **Tailwind CSS**, and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-app.git
-cd task-manager-app
+git clone [https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Leftinant]
+cd week-3-react-js-assignment
 
 ```
