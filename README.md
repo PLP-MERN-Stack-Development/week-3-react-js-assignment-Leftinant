@@ -30,3 +30,9 @@ git clone [https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignm
 cd week-3-react-js-assignment
 
 ```
+---
+## Vercel link
+
+```bash
+https://task-manager-nbe07mhtk-leftys-projects-a546b310.vercel.app/
+```
